@@ -28,4 +28,4 @@ Readers who enjoy collecting virtual goods can build their own virtual space usi
 
 ### License
 
-This software is released under the ASL license.
+This software is released under the Apache License, Version 2.0. See the LICENSE file for details.
